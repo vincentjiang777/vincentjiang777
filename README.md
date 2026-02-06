@@ -1,16 +1,24 @@
-## Hi there 👋
+<img width=“2560” height=“600" alt=“68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f6164656e2d70726f642d6173736574732f776562736974652f6164656e2d7469746c652d636172642e706e67” src=“https://github.com/user-attachments/assets/c7e72998-42e3-4a41-aed8-a81be68fe61c” />
 
-<!--
-**vincentjiang777/vincentjiang777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aden Hive is growing fast 
 
-Here are some ideas to get you started:
+5,000+ GitHub stars in ~10 days.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I contribute to **Aden Hive** - an open-source, outcome-driven agent framework
+built for production, not demos.
+
+Hive focuses on agents that:
+- evolve from failures
+- run real business processes
+- have cost limits, observability, and human-in-the-loop control
+
+I work inside the ecosystem helping shape how these agents are built
+and how they survive in the real world.
+
+---
+
+If you’re seeing this early, you’re ahead of the curve:
+
+ Check out **Aden Hive** [Hive](https://github.com/adenhq/hive)
+
+ Follow **Aden** for where agent infrastructure is heading [Hive](https://github.com/adenhq/hive)
