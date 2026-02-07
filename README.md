@@ -1,4 +1,5 @@
-<img width="2560" height="600" alt="68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f6164656e2d70726f642d6173736574732f776562736974652f6164656e2d7469746c652d636172642e706e67" src="https://github.com/user-attachments/assets/884c9dea-a34e-4b8b-84fd-320d1bf8d8e5" />
+![Screen Recording 2026-02-06 at 4 48 32 PM](https://github.com/user-attachments/assets/a19882b8-7a32-40ba-8a6c-2bc4773ce086)
+
 
 ## Aden Hive is growing fast 🐝
 
